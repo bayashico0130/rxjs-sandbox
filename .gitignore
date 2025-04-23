@@ -1,0 +1,17 @@
+node_modules/
+
+dist/
+*.js
+*.js.map
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
+
+.ts-node/
+
+package-lock.json
